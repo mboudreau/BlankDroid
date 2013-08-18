@@ -1,49 +1,96 @@
 {
+	"grab": [
+		"loading",
+		"capital_on",
+		"capital_off",
+		"candidates_style",
+		"number_picker_increment_scroll_mode",
+		"number_picker_increment_scroll_action",
+		"number_picker_increment_button",
+		"number_picker_decrement_button",
+		"time_picker_dialog_title",
+		"time_picker_increment_minute_button",
+		"time_picker_decrement_minute_button",
+		"time_picker_increment_hour_button",
+		"time_picker_decrement_hour_button",
+		"time_picker_increment_set_pm_button",
+		"time_picker_decrement_set_am_button",
+		"date_picker_dialog_title",
+		"date_picker_increment_day_button",
+		"date_picker_decrement_day_button",
+		"date_picker_increment_month_button",
+		"date_picker_decrement_month_button",
+		"date_picker_increment_year_button",
+		"date_picker_decrement_year_button",
+		"date_time_done",
+		"date_time_set",
+		"ringtone_picker_title",
+		"ringtone_default",
+		"ringtone_silent",
+		"activity_resolver_use_always",
+		"activity_resolver_use_once",
+		"noApplications",
+		"whichApplication",
+		"chooseActivity"
+	],
 	"data": {
+		"time_picker_separator": {
+			"en": ":"
+		},
 		"app_name": {
-			"en": "AstroSleep"
+			"en": "HoloEverywhere Demo",
+			"ru": "HoloEverywhere Демо"
 		},
 		"library_name": {
-			"en": "AstroSleep"
+			"en": "HoloEverywhere"
 		},
-		"home": {
-			"en": "Home"
-		},
-		"alarms": {
-			"en": "Alarms"
-		},
-		"settings": {
-			"en": "Settings"
-		},
-		"stats": {
-			"en": "Stats"
-		},
-		"about": {
-			"en": "About"
+		"demo": {
+			"en": "Demo",
+			"ru": "Демо"
 		},
 		"base_widgets": {
-			"en": "Base widgets"
+			"en": "Base widgets",
+			"ru": "Базовые виджеты"
 		},
 		"button": {
-			"en": "Button"
+			"en": "Button",
+			"ru": "Кнопка"
 		},
 		"edittext": {
-			"en": "Input field"
+			"en": "Input field",
+			"ru": "Поле ввода"
 		},
 		"autocompletetextview": {
-			"en": "Auto complete input field"
+			"en": "Auto complete input field",
+			"ru": "Дополняемое поле ввода"
 		},
 		"progress_bars": {
-			"en": "Progress bars"
+			"en": "Progress bars",
+			"ru": "Индикаторы прогресса"
 		},
 		"checkable_buttons": {
-			"en": "Checkable buttons"
+			"en": "Checkable buttons",
+			"ru": "Кнопки-переключатели"
 		},
 		"radiobutton": {
-			"en": "Radio-button"
+			"en": "Radio-button",
+			"ru": "Радио-кнопка"
 		},
 		"checkbox": {
-			"en": "Checkbox"
+			"en": "Checkbox",
+			"ru": "Флажок"
+		},
+		"other": {
+			"en": "Other",
+			"ru": "Прочее"
+		},
+		"about": {
+			"en": "About",
+			"ru": "О проекте"
+		},
+		"settings": {
+			"en": "Settings",
+			"ru": "Настройки"
 		},
 		"alertdialog": {
 			"en": "AlertDialog"
@@ -76,74 +123,90 @@
 			"en": "Toast"
 		},
 		"select_number": {
-			"en": "Select number"
+			"en": "Select number",
+			"ru": "Выберите число"
 		},
 		"very_very_long_operation": {
-			"en": "Very-very long operation..."
+			"en": "Very-very long operation...",
+			"ru": "Очень долгая операция..."
 		},
 		"dark": {
-			"en": "Dark"
+			"en": "Dark",
+			"ru": "Темная"
 		},
 		"light": {
 			"en": "Light",
 			"ru": "Светлая"
 		},
 		"mixed": {
-			"en": "Mixed"
+			"en": "Mixed",
+			"ru": "Микс"
 		},
 		"preference_title": {
 			"en": "@string/library_name"
 		},
 		"preference_summary": {
-			"en": "Preference Demo"
+			"en": "Preference Demo",
+			"ru": "Демо настроек"
 		},
 		"preference_base": {
-			"en": "Base"
+			"en": "Base",
+			"ru": "База"
 		},
 		"preference_edit_text_summary": {
-			"en": "Tap me!"
+			"en": "Tap me!",
+			"ru": "Нажми меня!"
 		},
 		"preference_edit_text_title": {
 			"en": "EditText"
 		},
 		"preference_edit_text_dialog_title": {
-			"en": "I\\'m listening"
+			"en": "I\\'m listening",
+			"ru": "Я слушаю"
 		},
 		"preference_check_box_summary_off": {
-			"en": "I not checked ;("
+			"en": "I not checked ;(",
+			"ru": "Я не отмечен ;("
 		},
 		"preference_check_box_summary_on": {
-			"en": "I checked! :)"
+			"en": "I checked! :)",
+			"ru": "Я отмечен! :)"
 		},
 		"preference_check_box_title": {
 			"en": "CheckBox"
 		},
 		"preference_ringtone_summary": {
-			"en": "I love music!"
+			"en": "I love music!",
+			"ru": "Я люблю музыку!"
 		},
 		"preference_ringtone_title": {
 			"en": "Ringtone"
 		},
 		"preference_switch_summary_off": {
-			"en": "Noooooo! ;("
+			"en": "Noooooo! ;(",
+			"ru": "Нееееет! ;("
 		},
 		"preference_switch_summary_on": {
-			"en": "I love world! :)"
+			"en": "I love world! :)",
+			"ru": "Я люблю мир! :)"
 		},
 		"preference_switch_title": {
 			"en": "Switch"
 		},
 		"preference_number_picker_summary": {
-			"en": "Numbers... Hm."
+			"en": "Numbers... Hm.",
+			"ru": "Числа... Хм."
 		},
 		"preference_number_picker_title": {
 			"en": "NumberPicker"
 		},
 		"preference_number_picker_dialog_title": {
-			"en": "Play to roulette!"
+			"en": "Play to roulette!",
+			"ru": "Сыграй в рулетку!"
 		},
 		"preference_lists": {
-			"en": "Lists"
+			"en": "Lists",
+			"ru": "Списки"
 		},
 		"preference_list_summary": {
 			"en": "Skillet"
@@ -164,10 +227,11 @@
 			"en": "@string/preference_multi_list_summary"
 		},
 		"preference_other": {
-			"en": "Other"
+			"en": "@string/other"
 		},
 		"preference_unsupported": {
-			"en": "Unsupported preferences"
+			"en": "Unsupported preferences",
+			"ru": "Неподдерживаемые настройки"
 		},
 		"preference_seek_bar": {
 			"en": "SeekBar"
@@ -182,31 +246,37 @@
 			"en": "GitHub"
 		},
 		"write_to_developers": {
-			"en": "Write to developers"
+			"en": "Write to developers",
+			"ru": "Написать разработчикам"
 		},
 		"developer_christophe": {
 			"en": "Christophe Versieux"
 		},
 		"developer_christophe_description": {
-			"en": "Founder and coordinator of the project"
+			"en": "Founder and coordinator of the project",
+			"ru": "Основатель и координатор проекта"
 		},
 		"developer_sergey": {
-			"en": "Sergey Shatunov"
+			"en": "Sergey Shatunov",
+			"ru": "Сергей Шатунов"
 		},
 		"developer_sergey_description": {
-			"en": "Main developer"
+			"en": "Main developer",
+			"ru": "Главный разработчик"
 		},
 		"select_email_programm": {
-			"en": "Select a email programm"
+			"en": "Select a email programm",
+			"ru": "Выберите Email программу"
 		},
 		"select_browser": {
-			"en": "Select a browser"
+			"en": "Select a browser",
+			"ru": "Выберите браузер"
 		},
 		"listviewModal": {
 			"en": "ListView Modal"
 		},
 		"about_text": {
-			"en": "AstroSleep About Text"
+			"en": "Just Holo.\nJust Everywhere."
 		}
 	}
 }
