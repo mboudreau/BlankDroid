@@ -5,9 +5,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.michelboudreau</groupId>
-	<artifactId>android-sample</artifactId>
-	<name>Android Sample</name>
-	<description>Android Sample Project - RoboGuice, ActionbarSherlock, HoloEverywhere, Maven</description>
+	<artifactId>blankdroid</artifactId>
+	<name>Blank Android Project</name>
+	<description>Maven, HoloEverywhere and RoboGuice</description>
 	<version>0.1.0</version>
 	<packaging>apk</packaging>
 
