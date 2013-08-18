@@ -1,0 +1,212 @@
+{
+	"data": {
+		"app_name": {
+			"en": "AstroSleep"
+		},
+		"library_name": {
+			"en": "AstroSleep"
+		},
+		"home": {
+			"en": "Home"
+		},
+		"alarms": {
+			"en": "Alarms"
+		},
+		"settings": {
+			"en": "Settings"
+		},
+		"stats": {
+			"en": "Stats"
+		},
+		"about": {
+			"en": "About"
+		},
+		"base_widgets": {
+			"en": "Base widgets"
+		},
+		"button": {
+			"en": "Button"
+		},
+		"edittext": {
+			"en": "Input field"
+		},
+		"autocompletetextview": {
+			"en": "Auto complete input field"
+		},
+		"progress_bars": {
+			"en": "Progress bars"
+		},
+		"checkable_buttons": {
+			"en": "Checkable buttons"
+		},
+		"radiobutton": {
+			"en": "Radio-button"
+		},
+		"checkbox": {
+			"en": "Checkbox"
+		},
+		"alertdialog": {
+			"en": "AlertDialog"
+		},
+		"progressdialog": {
+			"en": "ProgressDialog"
+		},
+		"calendar": {
+			"en": "Calendar"
+		},
+		"numberpicker": {
+			"en": "NumberPicker"
+		},
+		"datepicker": {
+			"en": "DatePicker"
+		},
+		"timepicker": {
+			"en": "TimePicker"
+		},
+		"popupmenu": {
+			"en": "PopupMenu"
+		},
+		"listpopupwindow": {
+			"en": "ListPopupWindow"
+		},
+		"contextmenu": {
+			"en": "ContextMenu"
+		},
+		"toast": {
+			"en": "Toast"
+		},
+		"select_number": {
+			"en": "Select number"
+		},
+		"very_very_long_operation": {
+			"en": "Very-very long operation..."
+		},
+		"dark": {
+			"en": "Dark"
+		},
+		"light": {
+			"en": "Light",
+			"ru": "Светлая"
+		},
+		"mixed": {
+			"en": "Mixed"
+		},
+		"preference_title": {
+			"en": "@string/library_name"
+		},
+		"preference_summary": {
+			"en": "Preference Demo"
+		},
+		"preference_base": {
+			"en": "Base"
+		},
+		"preference_edit_text_summary": {
+			"en": "Tap me!"
+		},
+		"preference_edit_text_title": {
+			"en": "EditText"
+		},
+		"preference_edit_text_dialog_title": {
+			"en": "I\\'m listening"
+		},
+		"preference_check_box_summary_off": {
+			"en": "I not checked ;("
+		},
+		"preference_check_box_summary_on": {
+			"en": "I checked! :)"
+		},
+		"preference_check_box_title": {
+			"en": "CheckBox"
+		},
+		"preference_ringtone_summary": {
+			"en": "I love music!"
+		},
+		"preference_ringtone_title": {
+			"en": "Ringtone"
+		},
+		"preference_switch_summary_off": {
+			"en": "Noooooo! ;("
+		},
+		"preference_switch_summary_on": {
+			"en": "I love world! :)"
+		},
+		"preference_switch_title": {
+			"en": "Switch"
+		},
+		"preference_number_picker_summary": {
+			"en": "Numbers... Hm."
+		},
+		"preference_number_picker_title": {
+			"en": "NumberPicker"
+		},
+		"preference_number_picker_dialog_title": {
+			"en": "Play to roulette!"
+		},
+		"preference_lists": {
+			"en": "Lists"
+		},
+		"preference_list_summary": {
+			"en": "Skillet"
+		},
+		"preference_list_title": {
+			"en": "List"
+		},
+		"preference_list_dialog_title": {
+			"en": "@string/preference_list_summary"
+		},
+		"preference_multi_list_summary": {
+			"en": "Nirvana"
+		},
+		"preference_multi_list_title": {
+			"en": "MultiSelectList"
+		},
+		"preference_multi_list_dialog_title": {
+			"en": "@string/preference_multi_list_summary"
+		},
+		"preference_other": {
+			"en": "Other"
+		},
+		"preference_unsupported": {
+			"en": "Unsupported preferences"
+		},
+		"preference_seek_bar": {
+			"en": "SeekBar"
+		},
+		"preference_seek_bar_dialog": {
+			"en": "SeekBarDialog"
+		},
+		"preference_volume": {
+			"en": "Volume"
+		},
+		"github": {
+			"en": "GitHub"
+		},
+		"write_to_developers": {
+			"en": "Write to developers"
+		},
+		"developer_christophe": {
+			"en": "Christophe Versieux"
+		},
+		"developer_christophe_description": {
+			"en": "Founder and coordinator of the project"
+		},
+		"developer_sergey": {
+			"en": "Sergey Shatunov"
+		},
+		"developer_sergey_description": {
+			"en": "Main developer"
+		},
+		"select_email_programm": {
+			"en": "Select a email programm"
+		},
+		"select_browser": {
+			"en": "Select a browser"
+		},
+		"listviewModal": {
+			"en": "ListView Modal"
+		},
+		"about_text": {
+			"en": "AstroSleep About Text"
+		}
+	}
+}
